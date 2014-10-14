@@ -1,5 +1,6 @@
 this is a new version now 123
 aaa--sss--rr
+# fixed redmine issue #2234 at Oct 14 2014 by ht
 uuu--eee--99
 xxxXXXxx
 xxxXXX{this changes take place in dev branch only}xxxxx
